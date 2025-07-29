@@ -363,10 +363,14 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-# Get OpenAI API key from user
-openai_api_key = st.text_input("Enter OpenAI API Key to access GPT-3.5 Turbo", type="password")
-# Get SerpAPI key from the user
-serp_api_key = st.text_input("Enter Serp API Key for Search functionality", type="password")
+
+# --- Fetch API keys from Streamlit secrets for cloud deployment ---
+openai_api_key = st.secrets.get("openai_api_key", None)
+serp_api_key = st.secrets.get("serp_api_key", None)
+
+# Optionally, show a warning if secrets are not set
+if not openai_api_key or not serp_api_key:
+    st.warning("Please set your OpenAI and SerpAPI keys in Streamlit Cloud secrets manager. The app will not work without them.")
 
 def get_openai_response(prompt, api_key, temperature=0.2, max_tokens=512):
     client = OpenAI(api_key=api_key)
