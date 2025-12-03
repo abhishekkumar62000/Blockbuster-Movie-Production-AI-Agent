@@ -400,6 +400,10 @@ Whether you're a filmmaker, screenwriter, or creative thinker — this is your A
 
 
 
+4. Optionally, export the diagram from [https://mermaid.live](https://mermaid.live) as a PNG/SVG and upload it to your repo `/assets/` folder.
+
+---
+
 ## ❤️ **Made with Passion by Abhishek Yadav & Open-Source Contributors!** 🚀✨
 
 
@@ -433,15 +437,15 @@ This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
 
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/abhishekkumar62000)
 
-## 👨‍💻 Developer Information
-**Created by **Abhishek kumar** 
-**📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
-**🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
-**🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
-**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
+## 👨‍💻 Developer Information  
+**Created by:** **Abhishek Kumar**  
+**📧 Email:** [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
+**🔗 LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**🐙 GitHub Profile:** [@abhishekkumar62000](https://github.com/abhishekkumar62000)
 
-![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6283838c-8640-4f22-87d4-6d4bfcbbb093" width="120" style="border-radius: 50%;">
+</p>
 </div>  
 
 
@@ -453,5 +457,3 @@ This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
 </div>
 
 ---
-
-```
